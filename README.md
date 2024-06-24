@@ -1,6 +1,7 @@
 # Welcome to My GitHub Profile!
 
-Hello there! I'm Tirtsa, a software engineering student in my final year of BSc, with a deep passion for development, particularly in Java and C#. I have a keen interest in fullstack development and recently completed a comprehensive course covering various aspects of fullstack development, along with multiple hands-on projects.
+Hello there ! 👋
+I'm Tirtsa, a software engineering student in my final year of BSc, with a deep passion for development, particularly in Java and C#. I have a keen interest in fullstack development and recently completed a comprehensive course covering various aspects of fullstack development, along with multiple hands-on projects.
 
 ## About Me
 - 📊 I have a specialization in data science because I am fascinated by the world of data. Previously, I worked for two years as a data analyst at the Israeli Employment Service, where I developed a deep appreciation for leveraging data to derive meaningful insights.
